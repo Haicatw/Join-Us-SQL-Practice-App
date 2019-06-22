@@ -1,0 +1,25 @@
+{
+  "name": "Join-Us-SQL-Practice-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haicatw/Join-Us-SQL-Practice-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haicatw/Join-Us-SQL-Practice-App/issues"
+  },
+  "homepage": "https://github.com/Haicatw/Join-Us-SQL-Practice-App#readme",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "mysql": "^2.17.1",
+    "sqlite3": "^4.0.9"
+  }
+}
